@@ -1,4 +1,4 @@
- ## Tank Level sensor
+ ## Smoke sensor
 
 This is an IOT project to check and notify smoke detection  to the user using NodeMCU, Arduino and Blink app
 ### How the tool works
