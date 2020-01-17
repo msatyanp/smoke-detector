@@ -4,11 +4,11 @@
 #include <Blynk.h>
 #include <DHT.h>
 #define BLYNK_PRINT Serial    // Comment this out to disable prints and save space
-char auth[] = "W3RDnSE0b3jynD97WTVW42GFJH316vLl";
+char auth[] = "<bylnk auth key>";
  
 /* WiFi credentials */
-char ssid[] = "satya_guest_wifi";
-char pass[] = "satya123#@!";
+char ssid[] = "<Your WIFI>";
+char pass[] = "<password>";
 
 #define DHTPIN 0          // D3
  
